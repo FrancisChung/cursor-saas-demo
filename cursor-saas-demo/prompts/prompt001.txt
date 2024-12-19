@@ -1,0 +1,4 @@
+Hi Cursor, I want you to create a button that will redirect to the URL /dashboards that will be a dashboard for managing API Keys.
+
+The dashboard should have a UI for CRUD API operations for API Keys.
+It is running on react and next.js and typescript, so you should use these tools
